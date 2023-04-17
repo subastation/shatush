@@ -1,6 +1,6 @@
 # Shatush
 <div align="center">
-  <img src="https://media.giphy.com/media/5N9HHMfPz0cwNtqWFv/giphy.gif" alt="GIF">
+  <img src="https://media.giphy.com/media/5N9HHMfPz0cwNtqWFv/giphy.gif" alt="GIF" height="150">
 </div>
 🇮🇹 ITALIANO **Files per inizializzare GPT e iniziare lo sviluppo di un sito web**
 
