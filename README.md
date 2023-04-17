@@ -1,7 +1,5 @@
 # Shatush
-<div align="center">
-  <img src="https://media.giphy.com/media/5N9HHMfPz0cwNtqWFv/giphy.gif" alt="GIF" height="150">
-</div>
+
 🇮🇹 ITALIANO **Files per inizializzare GPT e iniziare lo sviluppo di un sito web**
 
 Questo è un file di prompt che puoi utilizzare per inizializzare il tuo sito web con alcune informazioni di base. Puoi copiare e incollare il codice in questo file nel tuo editor di testo preferito e modificarlo secondo le tue esigenze.
