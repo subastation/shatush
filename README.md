@@ -1,6 +1,7 @@
 # Shatush
 
-🇮🇹 ## Files per inizializzare GPT e iniziare lo sviluppo di un sito web
+🇮🇹
+## Files per inizializzare GPT e iniziare lo sviluppo di un sito web
 
 Questo è un file di prompt che puoi utilizzare per inizializzare il tuo sito web con alcune informazioni di base. Puoi copiare e incollare il codice in questo file nel tuo editor di testo preferito e modificarlo secondo le tue esigenze.
 
@@ -9,7 +10,8 @@ Il file include informazioni come il titolo del sito web, la descrizione, l'auto
 Buona creazione! 🔨✨
 
 
-🇺🇸 ## A website builder for non informatics people, based on a website skeleton and a GPT prompt
+🇺🇸
+## A website builder for non informatics people, based on a website skeleton and a GPT prompt
 
 This repository contains a prompt file for initializing a new website project. The prompt file is designed to guide you through the process of setting up a new website, from choosing a design framework to configuring your hosting environment. The prompts are organized into sections, with each section focusing on a different aspect of the setup process.
 
