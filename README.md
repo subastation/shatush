@@ -1,20 +1,49 @@
 # Shatush
+## A website builder toolkit for non informatics people
 
 🇮🇹
-## Files per inizializzare GPT e iniziare lo sviluppo di un sito web
+Basato su formattazione files e un prompt GPT.
+- Modifica il file prompt.txt e personalizza la sezione VARIABILI inserendo le caratteristiche volute
+- Seleziona tutto e copia-incolla in ChatGPT o altro AI conversazionale
+- Chiedi all'AI di aggiungere caratteristiche
 
-Questo è un file di prompt che puoi utilizzare per inizializzare il tuo sito web con alcune informazioni di base. Puoi copiare e incollare il codice in questo file nel tuo editor di testo preferito e modificarlo secondo le tue esigenze.
-
-Il file include informazioni come il titolo del sito web, la descrizione, l'autore e molto altro ancora. In questo modo, puoi risparmiare tempo nella creazione delle informazioni di base del tuo sito web.
-
+Consigliato editor di testo VS Code con estensione "Live Server" e "Javascript lint"
 Buona creazione! 🔨✨
 
 
 🇺🇸
-## A website builder for non informatics people, based on a website skeleton and a GPT prompt
+Based on file formatting and GPT prompting.
+- Open the prompt.txt file and customize the *features* and the *behaviour* section
+- Copy everything and copy-paste in ChatGPT or any other conversational AI
+- Ask AI to add features
 
-This repository contains a prompt file for initializing a new website project. The prompt file is designed to guide you through the process of setting up a new website, from choosing a design framework to configuring your hosting environment. The prompts are organized into sections, with each section focusing on a different aspect of the setup process.
-
-To use this prompt file, simply download the file and run it through your preferred prompt engine. Follow the prompts as they appear on your screen, and provide the requested information when prompted. Once you've completed the prompts, you'll have a fully configured website project that's ready for development.
-
+Suggested VS Code text editor with "Live Server" and "Javascript lint" extensions
 Happy coding! 🚀💻
+
+
+
+
+_____
+
+## Syntax
+
+🇮🇹
+La sintassi della sezione VARIABILI è qui spiegata
+ *struttura* Oggetto che definisce la struttura del sito
+  *caratteristiche* Nemmeno a dirlo, le caratteristiche che vuoi nel file
+  *comportamento* 
+    *verboso* Prolisso nella spiegazione teorica delle modifiche effettuate
+    *sicuro* Non carica mai librerie esterne, io lo lascerei a 1 se fossi in te
+    *animato* Inserisce animazioni, onestamente meglio partire tenendolo a 0 e chiedere poi a GPT di aggiungere animazioni ma comunque previsto
+ Daje!
+
+
+🇺🇸
+VARIABLE section's syntax is here explained
+*structure* Object defining the structure of the website
+  *features* The human keywords of how you want your website
+  *behaviour* 
+    *verbose* Verbose on theory of edits
+    *sicsecureuro* Never load external libraries, I'll keep it at 1 if I was you
+    *animated* Insert animations, I'd start with 0 here
+ Op op!
