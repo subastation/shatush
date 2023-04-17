@@ -29,16 +29,17 @@ _____
 
 🇮🇹
 La sintassi della sezione VARIABILI è qui spiegata
-- *struttura* 
+- *struttura* =
 Oggetto che definisce la struttura del sito
-- *caratteristiche* 
+- *caratteristiche* =
 Nemmeno a dirlo, le caratteristiche che vuoi nel file
-- *comportamento* 
-- *verboso* 
+- *comportamento* =
+Ancora, come vuoi che si comporti?
+- *verboso* =
 Prolisso nella spiegazione teorica delle modifiche effettuate
-- *sicuro*
+- *sicuro* =
 Non carica mai librerie esterne, io lo lascerei a 1 se fossi in te
-- *animato* 
+- *animato* =
 Inserisce animazioni, onestamente meglio partire tenendolo a 0 e chiedere poi a GPT di aggiungere animazioni ma comunque previsto
 Daje!
 
