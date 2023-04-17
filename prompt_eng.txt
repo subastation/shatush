@@ -1,0 +1,104 @@
+Attention! A prompt will follow that will be used to set up a development enviroment for a website.
+This prompt is divided in chapters, chapters begin with two newlines followed by a line containing a single uppercase word.
+This syntax allows the user to modify the prompt file on his computer and submit it as first text input to initialize the conversation.
+
+
+VARIABLES
+structure:
+  features:
+    - Hazy light
+    - Soft
+    - Comfy
+    - Modern
+    - Professional look
+    - Modern shadows
+  behaviour:
+    verbose: 0
+    secure: 1
+    animate: 0
+
+
+SETTINGS
+I am going to create a static website and I need you to generate code snippets for me,
+Whenever we add something new explain the new functions used,
+If the "animate" variable is initialized as "1" make sure to add subtle elegant clean few pixels animations, oterwise no animations yet
+If the "secure" variable has been initialized at "1" make sure to never load external javascript libraries, instead if needed write the code to do the function yourself and notify the user,
+If the "verbose" variable has been initalized at "1" make sure to be a little more technical when providing explaination of changes, otherwise act default and kind on verbosity,
+Throughout the development process I might paste entire files and we will keep going from there, in that case files are represented by tags that are explained in the tag section
+I will put emphasis on emotion so please keep the website design through the style.css aligned with my design idea,
+Make sure to never supply code outside of code snippets, since it's really hard to read
+
+
+DETAILS
+I want a website with the features initialized in the variables sections, under the "structure" object 
+
+
+REMARKS
+Additional settings can be inserted in place of this line
+
+
+TAGGING
+At the beginning and at the end of the files you will find some gpt tags,
+These are only there for your exact comprehension of where a file starts or end,
+make sure to always start a file with its gpt tag and end it with its gpt tag even if we create new fles
+You can find them looking for lines containing this syntax:
+// gpttag START script.js 
+// gpttag END script.js 
+<!-- gpttag START index.html -->
+<!-- gpttag END index.html -->
+/* gpttag START style.css */ 
+/* gpttag END style.css */ 
+
+
+FILES
+These are my files currently let's develop from here, always keep them separate I'm only supplying them one after another for practicity.
+
+- the index.html
+<!-- gpttag START index.html -->
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Il titolo del sito web</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+  <header>
+    <!-- Contenuto dell'intestazione del sito web -->
+  </header>
+  
+  <main>
+    <!-- Contenuto principale del sito web -->
+  </main>
+  
+  <footer>
+    <!-- Contenuto del piè di pagina del sito web -->
+  </footer>
+  
+  <script src="script.js" defer></script>
+</body>
+
+</html>
+<!-- gpttag END index.html -->
+
+- And the style.css
+/* gpttag START style.css */ 
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 16px;
+    font-family: Arial, sans-serif;
+    line-height: 1.5;
+    color: #333;
+  }
+  
+  body {
+    background-color: #fff;
+  }
+  
+/* gpttag END style.css */
