@@ -41,15 +41,23 @@ Prolisso nella spiegazione teorica delle modifiche effettuate
 Non carica mai librerie esterne, io lo lascerei a 1 se fossi in te
 - *animato* =
 Inserisce animazioni, onestamente meglio partire tenendolo a 0 e chiedere poi a GPT di aggiungere animazioni ma comunque previsto
+
 Daje!
 
 
 🇺🇸
 VARIABLE section's syntax is here explained
-*structure* Object defining the structure of the website
-  *features* The human keywords of how you want your website
-  *behaviour* 
-    *verbose* Verbose on theory of edits
-    *sicsecureuro* Never load external libraries, I'll keep it at 1 if I was you
-    *animated* Insert animations, I'd start with 0 here
- Op op!
+- *structure* =
+Object defining the structure of the website
+- *features* =
+The human keywords of how you want your website
+- *behaviour* =
+Does this need explaination?
+- *verbose* =
+Verbose on theory of edits
+- *sicsecureuro* =
+Never load external libraries, I'll keep it at 1 if I was you
+- *animated* =
+Insert animations, I'd start with 0 here
+
+Op op!
