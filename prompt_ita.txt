@@ -1,100 +1,12 @@
-Attenti! Seguirà un prompt che verrà utilizzato per impostare un ambiente di sviluppo per un sito web.
-Questo prompt è diviso in capitoli, i capitoli iniziano con due newline seguiti da una riga contenente una singola parola maiuscola.
-Questa sintassi consente all'utente di modificare il file di prompt sul proprio computer e di inviarlo come primo input di testo per inizializzare la conversazione.
+Chi: Io, l'utente ()
+Come: Copiando da snippet di codice e successiamente suggerendo modifiche interattivamente
+Cosa: Crea un sito web statico partendo da index.html, style.css e script.js
+Quando: Adesso
+Perché: Voglio creare il mio sito web statico personale perché ()
 
 
-VARIABILI
-struttura:
-   caratteristiche:
-     - Soft diffuse light
-     - Moderno
-     - Aspetto professionale
-     - Ombre moderne ed eleganti
-   comportamento:
-     verboso: 0
-     sicuro: 1
-     animato: 0
+Me lo immagino così:
+- Una foto di sfondo a schermo pieno in alta qualità
+- Un contenutore giustificato a sinistra con armonia delle forme e degli spazi tra gli oggetti ed i bordi della pagina
+- Nel contenitore gli elementi sono 3, centrati rispetto al contenitore, il logo in prima riga, un titolo coerente con il mio Perché, il nome se presente tra le parentesi, ed una descrizione da 30 caratteri che riassume Chi Come Cosa e Perché
 
-
-IMPOSTAZIONI
-Creerò un sito web statico, genera codice per me, assicurati di non fornire mai codice al di fuori dei code snippets, poiché è poco leggibile per l'utente,
-Ogni volta che aggiungiamo qualcosa di nuovo, spiega brevemente le nuove funzioni utilizzate,
-Se la variabile "animato" è inizializzata come "1", assicurati di aggiungere animazioni di pochi pixel sottili, eleganti e pulite, altrimenti non ci sono ancora animazioni
-Se la variabile "sicuro" è stata inizializzata a "1" assicurati di non caricare mai librerie javascript esterne, piuttosto se necessario scrivi tu stesso il codice per eseguire la funzione e avvisa l'utente,
-Se la variabile "verboso" è stata inizializzata su "1", assicurati di essere un po' più tecnico quando fornisci la spiegazione delle modifiche, altrimenti agisci in modo predefinito e gentile sulla verbosità,
-Durante il processo di sviluppo potrei incollare interi file e proseguiremo da lì, in tal caso i file sono rappresentati da tag spiegati nella sezione tag
-Metterò l'accento sull'emozione, quindi per favore mantieni il design del sito web attraverso style.css allineato con la mia idea di design,
-
-
-DETTAGLI
-Voglio un sito web con le caratteristiche indicate nelle sezioni delle variabili, sotto l'oggetto "struttura".
-
-
-OSSERVAZIONI
-Impostazioni aggiuntive possono essere inserite al posto di questa riga
-
-
-TAGGING
-All'inizio e alla fine dei file troverai alcuni tag gpt,
-Questi sono lì solo per la tua esatta comprensione di dove inizia o finisce un file,
-assicurati di iniziare sempre un file con il suo tag gpt e di terminarlo con il suo tag gpt anche se creiamo nuovi file
-Puoi trovarli cercando righe contenenti questa sintassi:
-// gpttag START script.js
-// gpttag END script.js
-<!-- gpttag START index.html -->
-<!-- gpttag END index.html -->
-/* gpttag START stile.css */
-/* gpttag END style.css */
-
-
-FILES
-Questi sono i files da cui parto, sviluppiamo da qua, tienili sempre separati, qui sono nello stesso messaggio per praticità.
-- Lo index.html
-<!-- gpttag START index.html -->
-<!DOCTYPE html>
-
-<html lang="en">
-
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Il titolo del sito web</title>
-  <link rel="stylesheet" href="style.css">
-</head>
-
-<body>
-  <header>
-    <!-- Contenuto dell'intestazione del sito web -->
-  </header>
-  
-  <main>
-    <!-- Contenuto principale del sito web -->
-  </main>
-  
-  <footer>
-    <!-- Contenuto del piè di pagina del sito web -->
-  </footer>
-  
-  <script src="script.js" defer></script>
-</body>
-
-</html>
-<!-- gpttag END index.html -->
-
-- Lo style.css
-/* gpttag START style.css */ 
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    font-size: 16px;
-    font-family: Arial, sans-serif;
-    line-height: 1.5;
-    color: #333;
-  }
-  
-  body {
-    background-color: #fff;
-  }
-  
-/* gpttag END style.css */
