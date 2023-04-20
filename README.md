@@ -18,7 +18,7 @@
 
 
 
-## Capitolo 🔨✨, finalmente oserei dire - ISTRUZIONI
+## Capitolo 🔨✨ - ISTRUZIONI
 
 
 Prerequisiti sono lo scaricamento e l'installazione dello editor di testo Visual Studio Code, prodotto gratuito di Microsoft facilmente reperibile in rete. questi necessita dell'estensione Live Server.
