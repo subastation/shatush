@@ -61,3 +61,15 @@ Never load external libraries, I'll keep it at 1 if I was you
 Insert animations, I'd start with 0 here
 
 Op op!
+
+_____
+
+## Suggestions
+
+🇮🇹
+Suggerisco caldamente di fare un salto su coolor.co e scegliere una palette da dare in pasto a GPT, così che possa restare coerente a questa palette,
+se si presentassero problemi, puoi descrvierli a GPT e chiedere di risolverli
+
+
+🇺🇸
+I highly suggest jumping on coolor.co and choosing a coherent palette to feed into GPT, so that you can achieve color coherence and probably have visible text, otherwise you risk blank on blank.
