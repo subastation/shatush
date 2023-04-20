@@ -1,75 +1,38 @@
-# Shatush
-## A website builder toolkit for non informatics people
+# Shatush 🇮🇹
+## Pistola spara siti internet per Giovani Fuoriclasse e Bi..hes Creative. Slaaay.  
+### "Come fare un sito internet" Toh amo. Basato sulla tua capacità di espressione dei desideri ed un file di testo.
 
-🇮🇹
-Basato su formattazione files e un prompt GPT.
-- Modifica il file prompt.txt e personalizza la sezione VARIABILI inserendo le caratteristiche volute
-- Seleziona tutto e copia-incolla in ChatGPT o altro AI conversazionale
-- Chiedi all'AI di aggiungere caratteristiche
+- Ottieni i documenti necessari tramite il pulsante qui in alto a destra. Ne scaricherai uno archivio compresso in formato .zip 🔨✨ Info ed istruzioni tecniche sono riportate con cura nel 
 
-Consigliato editor di testo VS Code con estensione "Live Server" e "Javascript lint"
-Buona creazione! 🔨✨
+- Esprimi il tuo desiderio tra le parentesi nel file prompt_ita.txt 
 
+- Fornisci, tramite copia e incolla, il testo a ChatGPT o altro AI conversazionale e premi invio.
 
-🇺🇸
-Based on file formatting and GPT prompting.
-- Open the prompt.txt file and customize the *features* and the *behaviour* section
-- Copy everything and copy-paste in ChatGPT or any other conversational AI
-- Ask AI to add features
+- Agguanta, ancora tramite copia e incolla, il codice evidenziato dall'AI nel tuo editor di testo. Istruzioni nel Capitolo Martello🔨Stelline✨, ci arriviamo.
 
-Suggested VS Code text editor with "Live Server" and "Javascript lint" extensions
-Happy coding! 🚀💻
+- Salva tutti i files e lancia il tuo sito internet. Capitolo 🔨✨, ci arriviamo!
+
+- Sottoponi, un concetto per volta, i tuoi suggerimenti di modifica alla AI
+
+- Aggiorna i tuoi files, tramite copia e incolla, e itera fino a che non provi un qualche senso di soddisfazione.
 
 
 
-
-_____
-
-## Syntax
-
-🇮🇹
-La sintassi della sezione VARIABILI è qui spiegata
-- *struttura* =
-Oggetto che definisce la struttura del sito
-- *caratteristiche* =
-Nemmeno a dirlo, le caratteristiche che vuoi nel file
-- *comportamento* =
-Ancora, come vuoi che si comporti?
-- *verboso* =
-Prolisso nella spiegazione teorica delle modifiche effettuate
-- *sicuro* =
-Non carica mai librerie esterne, io lo lascerei a 1 se fossi in te
-- *animato* =
-Inserisce animazioni, onestamente meglio partire tenendolo a 0 e chiedere poi a GPT di aggiungere animazioni ma comunque previsto
-
-Daje!
+## Capitolo 🔨✨, finalmente oserei dire - ISTRUZIONI
 
 
-🇺🇸
-VARIABLE section's syntax is here explained
-- *structure* =
-Object defining the structure of the website
-- *features* =
-The human keywords of how you want your website
-- *behaviour* =
-Does this need explaination?
-- *verbose* =
-Verbose on theory of edits
-- *sicsecureuro* =
-Never load external libraries, I'll keep it at 1 if I was you
-- *animated* =
-Insert animations, I'd start with 0 here
+Prerequisiti sono lo scaricamento e l'installazione dello editor di testo Visual Studio Code, prodotto gratuito di Microsoft facilmente reperibile in rete. questi necessita dell'estensione Live Server.
+Se non sai come fare chiedi a ChatGPT fra, il mindset. Buona creazione! 🔨✨
 
-Op op!
+Per poter vedere le modifiche che fai al tuo sito web, puoi o aprire manualmente index.html ogni volta che salvi o tenere avviata l'estensione Live Server in Visual Studio Code
+
+Coi miei più ardenti
+auguri di cambiarlo
+questo mondo le porgo 
+i miei più distinti!
 
 _____
-
-## Suggestions
-
-🇮🇹
-Suggerisco caldamente di fare un salto su coolor.co e scegliere una palette da dare in pasto a GPT, così che possa restare coerente a questa palette,
-se si presentassero problemi, puoi descrvierli a GPT e chiedere di risolverli
-
-
 🇺🇸
-I highly suggest jumping on coolor.co and choosing a coherent palette to feed into GPT, so that you can achieve color coherence and probably have visible text, otherwise you risk blank on blank.
+Website creator toolkit for non informatics people: just put your wishes between the parenthesis in da prompt_eng.txt file, with emphasis on emotion,
+then paste back and forth from Visual Studio Code and keep asking AI to add features or change stuff.
+You need "Live Server" Visual Studio Code's extension to see the website updating when you change the files and save them. Or you can close and reopen every time. Its a 2 click operation ask GPT or your son how to do it if you're lost.
