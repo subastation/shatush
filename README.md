@@ -2,13 +2,13 @@
 ## Pistola spara siti internet per Giovani Fuoriclasse e Bi..hes Creative. Slaaay.  
 ### "Come fare un sito internet" Toh amo. Basato sulla tua capacità di espressione dei desideri ed un file di testo.
 
-- Ottieni i documenti necessari tramite il pulsante qui in alto a destra. Ne scaricherai uno archivio compresso in formato .zip 🔨✨ Info ed istruzioni tecniche sono riportate con cura nel 
+- Ottieni i documenti necessari tramite il pulsante qui in alto a destra. Ne scaricherai uno archivio compresso in formato .zip 🔨✨ Info ed istruzioni tecniche sono riportate con cura nel Capitolo 🔨✨
 
 - Esprimi il tuo desiderio tra le parentesi nel file prompt_ita.txt 
 
 - Fornisci, tramite copia e incolla, il testo a ChatGPT o altro AI conversazionale e premi invio.
 
-- Agguanta, ancora tramite copia e incolla, il codice evidenziato dall'AI nel tuo editor di testo. Istruzioni nel Capitolo Martello🔨Stelline✨, ci arriviamo.
+- Agguanta, ancora tramite copia e incolla, il codice evidenziato dall'AI nel tuo editor di testo. Istruzioni nel Capitolo 🔨✨, ci arriviamo.
 
 - Salva tutti i files e lancia il tuo sito internet. Capitolo 🔨✨, ci arriviamo!
 
@@ -19,7 +19,6 @@
 
 
 ## Capitolo 🔨✨ - ISTRUZIONI
-
 
 Prerequisiti sono lo scaricamento e l'installazione dello editor di testo Visual Studio Code, prodotto gratuito di Microsoft facilmente reperibile in rete. questi necessita dell'estensione Live Server.
 Se non sai come fare chiedi a ChatGPT fra, il mindset. Buona creazione! 🔨✨
